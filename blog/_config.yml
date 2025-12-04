@@ -1,4 +1,4 @@
-title: Hexo
+title: 水森的博客
 subtitle: ''
 description: ''
 keywords: null
@@ -61,5 +61,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: https://github.com/MoTang1016/motang1016.github.io
+  repo: https://github.com/Shuisen1016/shuisen1016.github.io
   branch: main
