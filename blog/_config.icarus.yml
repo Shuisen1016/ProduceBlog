@@ -167,7 +167,7 @@ search:
 comment:
     type: disqus
     # Disqus shortname
-    shortname: ''
+    shortname: shuisen-blog # 修改为你的 Disqus shortname
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
@@ -191,13 +191,6 @@ donates:
         type: patreon
         # URL to the Patreon page
         url: ''
-    # Paypal donate button configurations
-    -
-        type: paypal
-        # Paypal business ID or email address
-        business: ''
-        # Currency code
-        currency_code: USD
     # Wechat donate button configurations
     -
         type: wechat
@@ -205,10 +198,6 @@ donates:
         qrcode: ''
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share:
-    type: sharethis
-    # URL to the ShareThis share plugin script
-    install_url: ''
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -231,7 +220,7 @@ widgets:
         # Author name
         author: 水森
         # Author title
-        author_title: 非典型程序员
+        author_title: 代码编织梦想，技术驱动未来
         # Author's current location
         location: China, Beijing
         # URL or path to the avatar image
